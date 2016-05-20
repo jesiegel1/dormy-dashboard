@@ -4,7 +4,7 @@
   "description": "Parse dashboard for Dormy app",
   "main": "index.js",
   "scripts": {
-    "start": "node ./index.js --config ./parse-dashboard-config.json --allowInsecureHTTP=1"
+    "start": "node index.js --config parse-dashboard-config.json --allowInsecureHTTP=1"
   },
   "repository": {
     "type": "git",
